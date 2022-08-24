@@ -14,6 +14,6 @@ Welcome to my research page!
 {% include base_path %}
 
 {% for post in site.research reversed %}
-  <p> post.title </p>
+  <p> {{ post.title }} </p>
   {% include archive-single.html %}
 {% endfor %}
