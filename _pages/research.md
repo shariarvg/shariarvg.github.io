@@ -14,6 +14,6 @@ Welcome to my research page!
 {% include base_path %}
 
 {% for post in site.research reversed %}
-  Post 1
+  {% post.title %}
   {% include archive-single.html %}
 {% endfor %}
