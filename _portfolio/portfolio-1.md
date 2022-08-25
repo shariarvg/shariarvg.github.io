@@ -1,6 +1,6 @@
 ---
 title: "Analysis of LendingClub Risk Methdology"
-excerpt: "My team's winning submission for the 2022 Citadel Summer Invitational Datathon, for which we won $10,000.>"
+excerpt: "My team's winning submission for the 2022 Citadel Summer Invitational Datathon, for which we won $10,000."
 collection: portfolio
 ---
 
