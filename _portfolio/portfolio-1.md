@@ -8,4 +8,4 @@ LendingClub (LC) is a peer-to-peer lending platform where people get loans for c
 
 [22-page paper](https://drive.google.com/file/d/15FPujKoWgMyVR9WH3wJplt73qx2rrqGm/view?usp=sharing)
 
-[Github Repo] (https://github.com/a-cowlagi/citadel-summer-invitational22)
+[Github Repo](https://github.com/a-cowlagi/citadel-summer-invitational22)
