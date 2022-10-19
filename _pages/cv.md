@@ -12,12 +12,16 @@ redirect_from:
 Education
 ======
 
-B.S. in Mathematics and Statistical Science, Duke University, 2024 (expected)
+B.S. in Mathematics and Statistical Science, Duke University, May 2025
 
-Coursework: High Dimensional Data Analysis (Fall 2022), Regression Analysis (F' 2022), Mathematics of Regression (F' 2022), Elementary Differential Equations (F' 2022), Modern Statistical Modeling, Machine Learning for Legislative Behavior, Advanced Probability, Advanced Multivariate Calculus, Linear Algebra, Algorithms and Data Structures
+Coursework: High Dimensional Data Analysis, Regression Analysis, Mathematics of Regression, Elementary Differential Equations, Modern Statistical Modeling, Machine Learning for Legislative Behavior, Advanced Probability, Advanced Multivariate Calculus, Linear Algebra, Algorithms and Data Structures
 
 Work experience
 ======
+* Fall 2022 – Spring 2023: Applied Math Researcher, Duke
+  * Building a molecular clock to model the progression of DCIS into malignant breast cancer
+  * Working under the mentorship of Dr. Marc Ryser
+ 
 * Summer 2022: Data Scientist, Snowflake
   * Built SNOWprofiler, an anomaly detection and insight generation package 
     that identifies data quality issues in Snowflake tables
