@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Sharz, a math student, undergraduate researcher, and amateur writer! I made this page to serve as an unoriginally-designed nexus of my research and personal projects.
+Hi, I'm Sharz, a math student, undergraduate researcher, and amateur writer! This page will serve as a nexus for my academic and non-academic projects.
 
 I'm interested in high-dimensional statistical inference, including Bayesian methods for searching multicollinear parameter spaces. In the past, I've worked on adapting foundational NLP models to social science questions. As for my writing, I've written short stories, satirical media, and a few screenplays, all involving a mixture of comedy and either magical realism or science fiction. 
 
