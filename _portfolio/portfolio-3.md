@@ -1,6 +1,6 @@
 
 ---
-title: "Analyzing Syrian Tweets Over the Course of the Siege of Aleppo"
+title: "Fine-Tuning BERT to Analyze Syrian Tweets During the Siege of Aleppo"
 excerpt: "One report I produced while working with Dr. Zachary Steinert-Threlkeld at UCLA. Includes reproducible R code."
 collection: portfolio
 ---
