@@ -14,7 +14,7 @@ Education
 
 B.S. in Mathematics and Statistical Science, Duke University, May 2025
 
-Coursework: High Dimensional Data Analysis, Regression Analysis, Mathematics of Regression, Elementary Differential Equations, Modern Statistical Modeling, Machine Learning for Legislative Behavior, Advanced Probability, Advanced Multivariate Calculus, Linear Algebra, Algorithms and Data Structures
+Coursework: Real Analysis (Graduate Level), Time Series Analysis (Graduate Level), Predictive Learning and Inference, Bayesian and Modern Statistics, High Dimensional Data Analysis, Regression Analysis, Mathematics of Regression, Elementary Differential Equations, Modern Statistical Modeling, Machine Learning for Legislative Behavior, Advanced Probability, Advanced Multivariate Calculus, Linear Algebra, Algorithms and Data Structures
 
 Work experience
 ======
